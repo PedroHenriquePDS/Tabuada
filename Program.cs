@@ -16,5 +16,3 @@ while ( multiplo <= 10)
 
 System.Console.Write("Pressione qualquer tecla para fechar");
 Console.ReadKey();
-
-
